@@ -1,0 +1,27 @@
+h3{
+    width: 100%;
+}
+
+.head{
+    font-size:35px;
+}
+
+.divStyle{
+    font-size: 30px;
+    float: none;
+}
+
+canvas{
+    border-color:green;
+    border-width:5px;
+    border-style:solid;
+    margin-top:280px;
+}
+
+.copyrightDiv{
+    width:100%;
+    bottom:0;
+    position:fixed;
+    background-color:rgb(66, 165, 66);
+    color:white;
+}
